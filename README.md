@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=js,py,rust,react,bash,aws,dynamodb,figma,blender" />
+</p>
 
 <!--
 **kasperworks/kasperworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
