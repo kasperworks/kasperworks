@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=ts,py,solidjs,react,go,tailwind,figma,astro,aws,cloudflare,nextjs,threejs" />
+   <img src="https://skillicons.dev/icons?i=ts,py,solidjs,react,go,tailwind,docker,aws,astro,cloudflare,vitest,threejs" />
 </p>
 
 <!--
